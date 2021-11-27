@@ -1,0 +1,52 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/74400951aeab770ab84f0f1d9727d51b.jpg",
+    "size": "full",
+    "aspectRatio": "5:5",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/",
+      "label": "https://lin.ee/waCeXRk"
+    },
+    "gravity": "center"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://www.img.in.th/images/2763782311a34f5a11499813ee6c71d3.png",
+        "size": "full",
+        "aspectRatio": "5:4"
+      },
+      {
+        "type": "image",
+        "url": "https://www.img.in.th/images/ed8483fb184ec7d29eb176d5747aa7ce.png",
+        "size": "4xl",
+        "aspectRatio": "5:2"
+      }
+    ],
+    "flex": 0,
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#FFD700",
+      "centerColor": "#FFA500"
+    },
+    "action": {
+      "type": "uri",
+      "label": "https://lin.ee/waCeXRk",
+      "uri": "http://linecorp.com/"
+    }
+  }
+}
+}]

@@ -1,0 +1,150 @@
+[{
+  "type": "flex",
+  "altText": "เฮงไม่หยุดเเจกเครดิตฟรี ไม่ต้องฝาก!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/466fcad148e7a424d571f1a76811b043.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/jbsjdym"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "All SEXY678 เเจกเครดิตฟรี",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FFFFE0"
+          },
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกใหม่ รับได้ทันทีไม่ต้องฝากก่อน สามารถเล่นได้ทุกค่าย ถอนได้จริง",
+            "wrap": true,
+            "align": "center",
+            "size": "sm",
+            "color": "#FFFF00"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/d02cc7e30466a00aeaa253d9fb3a1fba.png",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "aspectMode": "fit"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/ea06f133732ceafdb084727e70ffb68f.png",
+            "size": "full",
+            "aspectRatio": "3:2",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/jbsjdym"
+            },
+            "aspectMode": "fit",
+            "offsetTop": "none",
+            "offsetBottom": "none",
+            "gravity": "bottom"
+          },
+          {
+            "type": "text",
+            "text": "✨ระบบอัตโนมัติ รองรับทุกธนาคาร",
+            "weight": "bold",
+            "align": "center",
+            "size": "md"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/f15d59fe5945340bc94a6187404a922b.png",
+            "size": "full",
+            "aspectRatio": "3:1"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#7B68EE",
+          "endColor": "#6600CC",
+          "centerColor": "#FFFFE0"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/d4a0b1ce828f3e0af19032c1d7e8109e.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/jbsjdym"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่นเอาใจสายปั่น",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FFFFE0"
+          },
+          {
+            "type": "text",
+            "text": "สมาชิกใหม่ เเถมฟรีสปิ้นทุกยอดฝาก รับได้ไม่อั้นต่อวัน ไม่ติดเทิร์น เล่นได้ทุกค่าย",
+            "size": "xs",
+            "align": "center",
+            "wrap": true,
+            "color": "#FFFF00"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/8e2c4a5d52eafaf9d9d8476b5966d015.png",
+            "size": "full",
+            "aspectRatio": "2:1"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/6dbadecff36a48abc784b28ffc9f34ea.png",
+            "size": "full",
+            "aspectRatio": "3:2",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/jbsjdym"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://slotxo991.com/wp-content/uploads/2021/06/all-game-superslot-1-1024x391-1.png",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "aspectMode": "fit"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#7B68EE",
+          "endColor": "#6600CC",
+          "centerColor": "#FFFFE0"
+        }
+      }
+    }
+  ]
+}
+}]

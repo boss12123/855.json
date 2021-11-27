@@ -1,0 +1,187 @@
+[{
+  "type": "flex",
+  "altText": "เครดิตฟรีมีแจกไม่จำกัด ด่วนๆ❗❗",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/09ac0774b4f8ed04d928608debae4256.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/k8L65aK"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี",
+            "margin": "xs",
+            "weight": "bold",
+            "size": "xl",
+            "align": "center",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "text": "เล่นได้ทุกค่ายเกมส์ ไมจำกัดเดิมพัน",
+            "align": "center",
+            "color": "#CCFFCC"
+          },
+          {
+            "type": "text",
+            "text": "เล่นได้ 500 ถอนไปเลย 300",
+            "align": "center",
+            "color": "#CCFFCC"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://www.img.in.th/images/987a432a74dfcf74aa52e8db6dbe40e7.png",
+                "margin": "none",
+                "size": "full"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "uri",
+                      "label": "รับเครดิตฟรี",
+                      "uri": "https://lin.ee/k8L65aK"
+                    },
+                    "margin": "sm",
+                    "style": "primary",
+                    "height": "sm",
+                    "offsetTop": "none",
+                    "offsetBottom": "xxl",
+                    "offsetEnd": "none",
+                    "color": "#33CC00"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "uri",
+                      "label": "แชร์เลย",
+                      "uri": "https://bit.ly/3jZ1wCb"
+                    },
+                    "style": "primary",
+                    "height": "sm",
+                    "margin": "sm",
+                    "color": "#33CC00"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF0000",
+          "endColor": "#FF9900",
+          "centerColor": "#FF0000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/d14201bceecd95f946e098c61c599e61.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่นมากมาย",
+            "margin": "xs",
+            "size": "xl",
+            "weight": "bold",
+            "align": "center",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "text": "ปรับบเบทได้ ไร้เงื่อนไข",
+            "align": "center",
+            "color": "#CCFFCC"
+          },
+          {
+            "type": "text",
+            "text": "ฝาก-ถอนด้วยระบบอัตโนมัติ",
+            "align": "center",
+            "color": "#CCFFCC"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://www.img.in.th/images/9a7dc766914e71ea4fd26b42a4d2f8e2.png",
+                "size": "full",
+                "margin": "xs",
+                "align": "center",
+                "gravity": "bottom"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัคร",
+                  "uri": "https://bit.ly/39IArh6"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "sm",
+                "color": "#33CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "ติดต่อแอดมิน",
+                  "uri": "https://lin.ee/k8L65aK"
+                },
+                "height": "sm",
+                "style": "primary",
+                "margin": "sm",
+                "color": "#33CC00"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF0000",
+          "endColor": "#FF9900",
+          "centerColor": "#FF0000"
+        }
+      }
+    }
+  ]
+}
+}]

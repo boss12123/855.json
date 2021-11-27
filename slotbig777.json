@@ -1,0 +1,127 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรีจ้าาาาาาาาา",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/07fc37807095d21e2fdf0ea9bef2b542.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โอกาสดีๆมาถึงแล้วทุนฟรี 50. ",
+            "size": "md",
+            "margin": "md",
+            "wrap": true,
+            "color": "#4169E1"
+          },
+          {
+            "type": "text",
+            "text": "รับได้เลยไม่ต้องฝาก",
+            "color": "#4169E1",
+            "size": "md",
+            "margin": "md"
+          }
+        ],
+        "backgroundColor": "#E0FFFF"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "📲รับเครดิตฟรี📲",
+              "uri": "https://lin.ee/N7p79L3"
+            },
+            "color": "#FF8C00",
+            "position": "relative",
+            "height": "md",
+            "style": "secondary",
+            "margin": "none"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "👉แชร์เลย👈",
+              "uri": "https://liff.line.me/1656311862-xKyz7vqM?content=https://boss12123.github.io/slotbig777.json"
+            },
+            "color": "#00FF33",
+            "style": "secondary"
+          }
+        ],
+        "backgroundColor": "#E0FFFF"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/ccae2f45af3c2d6d51a00400fc8e94d0.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ฝากไม่รับโปรไม่ต้องทำเทริน์",
+            "color": "#4169E1"
+          }
+        ],
+        "backgroundColor": "#E0FFFF"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "secondary",
+            "color": "#FF8C00",
+            "action": {
+              "type": "uri",
+              "label": "🤑สมัครสมาชิก🤑",
+              "uri": "https://lin.ee/N7p79L3"
+            },
+            "height": "md",
+            "position": "relative",
+            "margin": "none"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "👉แชร์เลย👈",
+              "uri": "https://liff.line.me/1656311862-xKyz7vqM?content=https://boss12123.github.io/slotbig777.json"
+            },
+            "color": "#00FF33",
+            "style": "secondary"
+          }
+        ],
+        "backgroundColor": "#E0FFFF"
+      }
+    }
+  ]
+}
+}]

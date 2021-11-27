@@ -1,0 +1,71 @@
+[{
+  "type": "flex",
+  "altText": "🕉พระพิฆเนศเเจกโชค รับได้ทันที 100 เครดิต",
+  "contents":{
+  "type": "bubble",
+  "direction": "ltr",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2021/08/16/28aIvW.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "fit"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โค๊ดเครดิตฟรี : allrayalfree159",
+            "weight": "bold",
+            "size": "md",
+            "color": "#19A718FF",
+            "align": "center",
+            "contents": []
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "All Rayal99 เเจกโค๊ดเครดิตฟรี 159 เครดิต เพียงนำโค๊ดเเจ้งให้เเอดมินก็รับได้ทันที",
+        "weight": "bold",
+        "size": "xs",
+        "align": "center",
+        "margin": "md",
+        "wrap": true,
+        "contents": []
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เเจ้งโค๊ดรับเครดิต",
+          "uri": "https://lin.ee/cHl6niV"
+        },
+        "style": "primary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เเชร์เลย",
+          "uri": "https://liff.line.me/1656296891-k72eB7dW"
+        },
+        "color": "#E72D2DFF",
+        "style": "primary"
+      }
+    ]
+  }
+}]

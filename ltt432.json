@@ -1,0 +1,215 @@
+[{
+  "type": "flex",
+  "altText": "เเจกโค๊ดเครดิตฟรี 300 ยูซเซอร์ !!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/08/24/2FpgyS.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🔥Code Free : lottofree",
+            "weight": "bold",
+            "align": "center",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true,
+            "text": "เเจกโค๊ดเครดิตฟรี เล่นได้ทุกค่าย ",
+            "size": "xs",
+            "color": "#FF0000"
+          },
+          {
+            "type": "text",
+            "text": "เพียงนำโค๊ดเเจ้งเเอดมินรับได้ทันที  ",
+            "align": "center",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xs",
+            "color": "#FF0000"
+          }
+        ],
+        "backgroundColor": "#FFFFFF"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเจ๊งโค๊ดรับเลย",
+              "uri": "https://lin.ee/ks2fja5"
+            },
+            "style": "secondary",
+            "color": "#00FA9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์เลย",
+              "uri": "https://liff.line.me/1656285592-daqM9K0e/?content=https://boss12123.github.io/ltt432.json"
+            },
+            "style": "primary",
+            "color": "#FF0033"
+          }
+        ],
+        "spacing": "xs",
+        "margin": "none",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FFFFFF",
+          "endColor": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/cbb914b3ec5a2ea50106dc6526bd853a.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "LOTTO 432",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "ร่วมรับเครดิตฟรี ได้ทุกสัปดาห์ ",
+            "weight": "bold",
+            "align": "center",
+            "size": "xs",
+            "color": "#FF0000"
+          },
+          {
+            "type": "text",
+            "text": "มีของรางวัลเเละโบนัสเเจกให้อีกมากมาย",
+            "size": "xs",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FF0000"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/ks2fja5"
+            },
+            "color": "#00FA9A",
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://lin.ee/ks2fja5om/"
+            },
+            "color": "#FF0033",
+            "style": "primary"
+          }
+        ],
+        "spacing": "xs",
+        "margin": "none"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/08/24/2FGbeb.png",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครใหม่รับโบนัส 20%",
+            "size": "xs",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "ฝาก-ถอนผ่านระบบอัตโนมัติ คาสิโนครบวงจร",
+            "align": "center",
+            "wrap": true,
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "บอล หวย สล็อต บอล คาสิโน",
+            "size": "xs",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "uri": "https://lin.ee/ks2fja5",
+              "label": "สมัครรับโบนัส"
+            },
+            "style": "primary",
+            "color": "#00FA9A"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/ks2fja5"
+            },
+            "style": "primary",
+            "color": "#FF0033"
+          }
+        ],
+        "spacing": "xs",
+        "margin": "none"
+      }
+    }
+  ]
+}
+}]

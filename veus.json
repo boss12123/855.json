@@ -1,0 +1,77 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/ac65fd65c763377af87951f8c0ae7feb.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "VEGUS 886",
+        "size": "lg",
+        "color": "#FFFF00",
+        "weight": "bold",
+        "style": "italic",
+        "decoration": "none",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "แจกฟรีลิ้งรับทรัพย์ 129 เครดิต เพียงกดแชร์ลงกลุ่มไลน์จำนวน 10 กลุ่ม ",
+        "align": "center",
+        "wrap": true,
+        "color": "#FFFFFF",
+        "margin": "xs",
+        "size": "xs"
+      }
+    ],
+    "margin": "none",
+    "borderColor": "#3333FF",
+    "backgroundColor": "#3366FF"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "แชร์รับทรัพย์",
+          "text": "hello"
+        },
+        "color": "#33CC33"
+      },
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://linecorp.com"
+        },
+        "color": "#FF6633"
+      }
+    ],
+    "flex": 0,
+    "backgroundColor": "#0066FF"
+  }
+}
+}]

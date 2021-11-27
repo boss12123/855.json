@@ -1,0 +1,71 @@
+[{
+ "type": "flex",
+ "altText": "เฮง ท้ายปี แจก เครดิตฟรี ไม่จำกัด",
+ "contents": {
+ "type": "carousel",
+ "contents": [
+   {
+     "type": "bubble",
+     "hero": {
+       "type": "image",
+       "size": "full",
+       "aspectRatio": "2:2",
+       "aspectMode": "cover",
+       "url": "https://www.img.in.th/images/f7988efe3e974a9b4bd802eae05da5cf.jpg"
+     },
+     "body": {
+       "type": "box",
+       "layout": "vertical",
+       "spacing": "sm",
+       "contents": [
+         {
+           "type": "text",
+           "text": "แจกฟรีทุกคน ไม่ต้องลุ้น",
+           "wrap": true,
+           "weight": "bold",
+           "size": "xl",
+           "color": "#EEB422",
+           "align": "center"
+         },
+         {
+           "type": "text",
+           "text": "รับเครดิตฟรีได้ทุกวันไม่มีทุนก็เล่นได้",
+           "weight": "bold",
+           "color": "#00FF00"
+         },
+         {
+           "type": "text",
+           "text": "( 1 สิทธิ์ ต่อ 1 ท่าน )",
+           "color": "#FFFFE0",
+           "weight": "bold",
+           "align": "center"
+         },
+         {
+           "type": "image",
+           "url": "https://sv1.picz.in.th/images/2021/10/03/Cyya1I.png",
+           "size": "full",
+           "aspectRatio": "2:1"
+         },
+         {
+           "type": "image",
+           "url": "https://sv1.picz.in.th/images/2021/10/03/CyyH6u.png",
+           "aspectRatio": "4:1",
+           "size": "full",
+           "action": {
+             "type": "uri",
+             "label": "action",
+             "uri": "https://lin.ee/rgiEeF4"
+           }
+         }
+       ],
+       "background": {
+         "type": "linearGradient",
+         "angle": "0deg",
+         "startColor": "#8B4726",
+         "endColor": "#000000"
+       }
+     }
+   }
+ ]
+}
+}]

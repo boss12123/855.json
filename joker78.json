@@ -1,0 +1,159 @@
+[{
+  "type": "flex",
+  "altText": "เเจกโค๊ดเครดิตฟรีจำนวนจำกัด",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://sv1.picz.in.th/images/2021/08/20/2G6xUl.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/XP3Ed23"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "align": "center",
+            "color": "#FFFFFF",
+            "text": "JOKERXD 777"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "แจกฟรี 130 บาทรวมทุกค่ายเกมส์ออนไลน์",
+                "size": "sm",
+                "align": "center",
+                "margin": "none",
+                "color": "#FFFFFF"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "เล่นได้ทุกค่ายเกมส์ครบจบในเว็บเดี่ยว",
+            "size": "sm",
+            "align": "center",
+            "color": "#FFFFFF"
+          }
+        ],
+        "backgroundColor": "#000080"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "action": {
+              "type": "uri",
+              "label": "📌สมัครสมาชิก📌",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💰แชร์เลย💰",
+              "uri": "https://linecorp.com"
+            },
+            "style": "secondary"
+          }
+        ],
+        "backgroundColor": "#000080"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://sv1.picz.in.th/images/2021/08/20/2G65cE.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "📣สมาชิกใหม่ฟังทางนี้📣",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "color": "#FFFFFF",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "อย่ารอช้า โปรโมชั่นจำจนวนจำกัด",
+            "color": "#FFFFFF",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "ระบบอัตโนมัติ รวดเร็วทันใจ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0,
+                "align": "center",
+                "color": "#FFFFFF"
+              }
+            ]
+          }
+        ],
+        "backgroundColor": "#000080"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "flex": 2,
+            "style": "secondary",
+            "action": {
+              "type": "uri",
+              "label": "🔞สมัครสมาชิกเลย🔞",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+            }
+          }
+        ],
+        "backgroundColor": "#000080"
+      }
+    }
+}]

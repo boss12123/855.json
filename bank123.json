@@ -1,0 +1,83 @@
+[{
+  "type": "flex",
+  "altText": "�คลิ๊กปึบรับปั้บ 129 เครดิตฟรี",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/ac65fd65c763377af87951f8c0ae7feb.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🔥VEGUS886🔥",
+        "align": "center",
+        "wrap": false,
+        "weight": "bold",
+        "size": "lg",
+        "color": "#FFFF00"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "xxs",
+        "text": "มหกรรมเครดิตฟรี เเจกทันที 129 เครดิต ไม่ต้องฝากก่อน เพียงกดเเชร์ลงกลุ่มไลน์ก็รับได้ทันที",
+        "wrap": true,
+        "align": "center",
+        "color": "#FFFFFF"
+      }
+    ],
+    "backgroundColor": "#3366FF"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/0dMaG5O"
+        }
+      },
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "เเชร์รับทรัพย์",
+          "uri": "https://liff.line.me/1656316815-2MDxvrZr?content=https://boss12123.github.io/bank123.json"
+        },
+        "color": "#FF9900"
+      },
+      {
+        "type": "spacer",
+        "size": "sm"
+      }
+    ],
+    "flex": 0,
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#0066FF",
+      "endColor": "#3333FF",
+      "centerColor": "#3333FF"
+    }
+  }
+}
+}]

@@ -1,0 +1,178 @@
+[{
+  "type": "flex",
+  "altText": "คุณคือผู้โชคดีได้รับโค๊ดฟรี",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://sv1.picz.in.th/images/2021/08/20/2G6xUl.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/wCzb9PM"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "align": "center",
+            "color": "#33FF33",
+            "text": "JOKERXD 777"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "size": "sm",
+                "align": "center",
+                "margin": "none",
+                "color": "#FFFFFF",
+                "text": "แจกฟรี 130 บาทรวมทุกค่ายเกมส์ออนไลน์"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "เล่นได้ทุกค่ายเกมส์ครบจบในเว็บเดี่ยว",
+            "size": "md",
+            "align": "center",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "รับง่ายไม่ต้องฝากก่อน",
+            "color": "#FFFFFF",
+            "align": "center"
+          }
+        ],
+        "backgroundColor": "#0033FF"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "action": {
+              "type": "uri",
+              "label": "📣รับเครดิตฟรี📣",
+              "uri": "https://lin.ee/wCzb9PM"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "🎁แชร์เลย🎁",
+              "uri": "https://liff.line.me/1656340671-8nPpNoRM/?content=https://boss12123.github.io/tee78.json"
+            },
+            "style": "primary",
+            "color": "#FF0000"
+          }
+        ],
+        "backgroundColor": "#0033FF"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://sv1.picz.in.th/images/2021/08/20/2G65cE.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "📣สมาชิกใหม่ฟังทางนี้📣",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "color": "#FFFF00",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "อย่ารอช้า โปรโมชั่นจำจนวนจำกัด",
+            "color": "#FFFFFF",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "ระบบ ฝาก-ถอน อัตโนมัติ รวดเร็วทันใจ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0,
+                "align": "center",
+                "color": "#FFFFFF"
+              }
+            ]
+          }
+        ],
+        "backgroundColor": "#0033FF"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "📣รับเครดิตฟรี📣",
+              "uri": "https://lin.ee/wCzb9PM"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "flex": 2,
+            "style": "primary",
+            "action": {
+              "type": "uri",
+              "label": "🔞สมัครสมาชิกเลย🔞",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+            },
+            "color": "#FF0000"
+          }
+        ],
+        "backgroundColor": "#0033FF"
+      }
+    }
+  ]
+}
+}]

@@ -1,0 +1,121 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรี!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/61a1712ec3153d73ab4e81e4183a7fe2.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ไม่ต้องฝากก่อนรับได้เลย !!",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "SLOT88 เเจกเครดิตฟรี ไม่ต้องฝากก่อน เล่นได้ไม่จำกัดค่าย ถอนได้จริง",
+            "wrap": true,
+            "align": "center",
+            "size": "xs",
+            "color": "#FF6347"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/SZSs4pt"
+            },
+            "style": "primary",
+            "color": "#FF0033"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์รับทรัพย์",
+              "uri": "https://liff.line.me/1656442923-y4nRP1ZO/?content=https://boss12123.github.io/ufaauto.github.io/slot88f.json"
+            },
+            "style": "secondary",
+            "color": "#00FF7F"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/f6d0efdcc7a971a093d5e9ea4566aeb7.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมาชิกใหม่รับได้ทันที ",
+            "align": "center",
+            "wrap": true,
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "โบนัส 100% รับได้ทั้งสมาชิกใหม่เเละเก่า ไม่จำกัดครั้งต่อวัน ",
+            "align": "center",
+            "size": "xs",
+            "wrap": true,
+            "color": "#FF6347"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://lin.ee/SZSs4pt"
+            },
+            "style": "primary",
+            "color": "#FF0033"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโบนัส",
+              "uri": "https://lin.ee/SZSs4pt"
+            },
+            "style": "secondary",
+            "color": "#00FF7F"
+          }
+        ],
+        "spacing": "sm"
+      }
+    }
+  ]
+}
+}]

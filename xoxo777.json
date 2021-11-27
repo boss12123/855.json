@@ -1,0 +1,110 @@
+[{
+  "type": "flex",
+  "altText": "ขอเย็ดหน่อย",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/168d2f4b838a2ef85a2349cb1cc97894.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/pUg8PEt"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/715bf5be264c9667d25de3cf9882c678.png",
+            "size": "full",
+            "aspectRatio": "15:6",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/pUg8PEt"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/a75b19cce088d58f5c95df7409ac9a54.png",
+            "size": "full",
+            "aspectRatio": "3:2",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/pUg8PEt"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF66CC",
+          "endColor": "#FFCCFF",
+          "centerColor": "#CC99FF"
+        }
+      },
+      "styles": {
+        "hero": {
+          "backgroundColor": "#FFCCFF"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/71f6b08f7f9349aabd5a7409a740afd0.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://www.allcasino518.com/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/7aab7a4fc70bf97d2ee4917c33c10741.png",
+            "size": "full",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.allcasino518.com/"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/72341261c802952b1d898852065918e2.png",
+            "size": "full",
+            "aspectRatio": "3:2",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.allcasino518.com/"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF66CC",
+          "endColor": "#FFCCFF",
+          "centerColor": "#CC99FF"
+        }
+      }
+    }
+  ]
+}
+}]

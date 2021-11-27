@@ -1,0 +1,168 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/7fcde38391e95e24681f81c8e8556a94.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "จำกัด✨",
+                "color": "#ffffff",
+                "align": "center",
+                "size": "xs",
+                "offsetTop": "3px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": []
+              }
+            ],
+            "position": "absolute",
+            "cornerRadius": "20px",
+            "offsetTop": "18px",
+            "backgroundColor": "#ff334b",
+            "offsetStart": "18px",
+            "height": "25px",
+            "width": "53px"
+          },
+          {
+            "type": "text",
+            "text": "เว็บใหม่มาเเรง เเจกเครดิตฟรี 89 เครดิต ไม่ต้องฝากก่อนรับได้ทันที",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true,
+            "margin": "xxl",
+            "size": "sm"
+          }
+        ],
+        "paddingAll": "0px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/J1KktRE"
+            },
+            "style": "primary",
+            "height": "sm",
+            "color": "#0066FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์เลย",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "primary",
+            "height": "sm",
+            "color": "#3399FF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/dc15b9736be64fab2614c31a4b07e4b4.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ฮอต🔥",
+                "color": "#ffffff",
+                "align": "center",
+                "size": "xs",
+                "offsetTop": "3px"
+              }
+            ],
+            "position": "absolute",
+            "cornerRadius": "20px",
+            "offsetTop": "18px",
+            "backgroundColor": "#ff334b",
+            "offsetStart": "18px",
+            "height": "25px",
+            "width": "53px"
+          },
+          {
+            "type": "text",
+            "text": "ระบบอัตโนมัติ ฝาก-ถอนรวดเร็ว ทันใจ ปลอดภัย มั่นคง มีโปรโมชั่นให้เลือก มากมาย ",
+            "weight": "bold",
+            "align": "center",
+            "size": "sm",
+            "margin": "xxl",
+            "wrap": true
+          }
+        ],
+        "paddingAll": "0px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "http://ufa-bet191.com/"
+            },
+            "style": "primary",
+            "height": "sm",
+            "color": "#0066FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/J1KktRE"
+            },
+            "style": "primary",
+            "height": "sm",
+            "color": "#3399FF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    }
+  ]
+}
+}]

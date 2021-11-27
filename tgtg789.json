@@ -1,0 +1,177 @@
+[{
+  "type": "flex",
+  "altText": "🐅พี่เสือให้โชค 135 เครดิต รับได้ไม่จำกัด 💥",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/b0a0c7b06b6fa5b25b8108cde0a9e73f.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/mSAH9pi"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โค้ดเครดิตฟรี : TIGERFREE135L7T",
+            "margin": "sm",
+            "size": "md",
+            "weight": "bold",
+            "color": "#000000",
+            "align": "center",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/mSAH9pi"
+            },
+            "contents": [
+              {
+                "type": "span",
+                "text": "โค้ดเครดิตฟรี :"
+              },
+              {
+                "type": "span",
+                "text": " TIGERFREE135L7T",
+                "color": "#FF0033"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "🥇 แจ้งโค้ดกับแอดมินก็รับเครดิตฟรีได้ทันที 🥇",
+            "color": "#000000",
+            "margin": "xs",
+            "size": "xs",
+            "style": "normal",
+            "align": "center",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/mSAH9pi"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/2610c51b95c01e046f949df878f34004.png",
+            "margin": "xxl",
+            "aspectRatio": "5:3",
+            "size": "full",
+            "aspectMode": "fit",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/mSAH9pi"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/f3b6fb249d6ce53db75bd9e3297654e5.png",
+            "size": "5xl",
+            "aspectRatio": "4:2",
+            "gravity": "center",
+            "align": "center",
+            "margin": "xxl",
+            "aspectMode": "fit",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/mSAH9pi"
+            }
+          },
+          {
+            "type": "text",
+            "text": "@TIGER BTE789"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "2deg",
+          "startColor": "#000000",
+          "endColor": "#FFA500",
+          "centerColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/3776bc593fc60f5654bae84e5d0fd8b9.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/mSAH9pi"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกใหม่รับโบนัส X2",
+            "weight": "bold",
+            "margin": "none",
+            "size": "lg",
+            "color": "#000000",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "โบนัส X2 เล่นได้ทุกค่ายเกม ไม่จำกัดเดิมพัน",
+            "color": "#000000",
+            "margin": "xs",
+            "size": "sm",
+            "align": "center"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/481a63969e47a03ead86c60775259af3.png",
+            "margin": "xxl",
+            "size": "full",
+            "aspectRatio": "4:3",
+            "aspectMode": "fit"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/9456d8d6a516b55233d24397e8269486.png",
+            "size": "full",
+            "align": "center",
+            "gravity": "center",
+            "aspectMode": "fit",
+            "margin": "xs",
+            "aspectRatio": "7:2"
+          },
+          {
+            "type": "text",
+            "text": "@TIGER BTE789",
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "2deg",
+          "startColor": "#000000",
+          "endColor": "#FFA500",
+          "centerColor": "#000000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/mSAH9pi"
+        }
+      }
+    }
+  ]
+}
+}]

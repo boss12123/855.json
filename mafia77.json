@@ -1,0 +1,142 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/8b9bfbc19d5162ce016f5f3b78731e7f.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "MAFIA 777",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xxl",
+            "align": "center",
+            "color": "#FFA500"
+          },
+          {
+            "type": "text",
+            "text": "มีทุนมาให้ลองเล่น ไม่ต้องฝากก่อน",
+            "align": "center",
+            "color": "#EEC900",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "ไม่มีสุ่มแจก ไม่ต้องรอ",
+            "align": "center",
+            "color": "#EEC900",
+            "weight": "bold"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/b2128a61fcf6e5776ad3857e73099977.png",
+            "size": "full",
+            "aspectRatio": "5:3"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/922be9e728fe60e388839afd8ea7a00a.png",
+            "size": "5xl",
+            "animated": true,
+            "margin": "none",
+            "aspectRatio": "5:3",
+            "offsetTop": "xxl",
+            "offsetStart": "none",
+            "offsetEnd": "none",
+            "offsetBottom": "none",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/AAICUS0"
+            }
+          }
+        ],
+        "backgroundColor": "#FF6633",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#8A2BE2"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/6ec037d258d85de6a9b9d6325cbce134.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมาชิกใหม่โบนัส 100%",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "color": "#FFA500"
+          },
+          {
+            "type": "text",
+            "text": "ระบบฝากถอน อัตโนมัติ",
+            "align": "center",
+            "color": "#EEC900",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": " ทำรายการด้วยตัวคุณเอง",
+            "align": "center",
+            "color": "#EEC900",
+            "weight": "bold"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/abfc5c7f4f877cb6740b55c23ec720c6.png",
+            "aspectRatio": "5:3",
+            "size": "full"
+          },
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/09/20/C2swSI.png",
+            "size": "full",
+            "aspectRatio": "5:2",
+            "offsetTop": "xxl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/AAICUS0"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#8A2BE2"
+        }
+      }
+    }
+  ]
+}
+}]

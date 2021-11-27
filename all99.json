@@ -1,0 +1,191 @@
+[{
+  "type": "flex",
+  "altText": "🐉มังกรเเจกโชค รับเครดิตฟรีได้ทันที 159 เครดิต!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/55436b08c2b46351df56452ba21e9711.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/cHl6niV"
+        },
+        "margin": "none"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🐲All Rolyal99",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FFCC00",
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "🔥มังกรทองเเจกโชค !! ให้เครดิตฟรี 159 ได้ทุกคนไม่มีอั้น เเจกหนักทุกสัปดาห์ ",
+            "wrap": true,
+            "align": "center",
+            "weight": "bold",
+            "size": "sm",
+            "margin": "xs",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "***โค๊ดเครดิตฟรี : dragonfree159***",
+            "weight": "bold",
+            "align": "center",
+            "size": "sm",
+            "color": "#00FA9A"
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "🐉เเจ้งโค๊ดรับเครดิตฟรี🐉",
+              "uri": "https://lin.ee/cHl6niV"
+            },
+            "style": "primary",
+            "color": "#FF0000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "✨เเชร์ให้เลย✨",
+              "uri": "https://liff.line.me/1656340443-Xz8Eqvom/?content=https://boss12123.github.io/all99.json"
+            },
+            "style": "secondary",
+            "color": "#FFCC33"
+          }
+        ],
+        "spacing": "md",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000"
+        }
+      },
+      "styles": {
+        "hero": {
+          "backgroundColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/f40aedf353f2b28a2fd4002cc670f4cd.png",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "สมัคร",
+          "uri": "http://ufa-bet191.com/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🔥สมัครสมาชิกใหม่รับโบนัส 100%",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true,
+            "color": "#FFCC33",
+            "size": "md",
+            "margin": "none"
+          },
+          {
+            "type": "text",
+            "text": "ฝาก 100 รับ 200  🐱‍🐉ฝาก 200 รับ 400 ",
+            "color": "#00FA9A",
+            "weight": "bold",
+            "align": "start",
+            "margin": "none",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ฝาก 300 รับ 600  🐱‍🐉ฝาก 400 รับ 800 ",
+            "weight": "bold",
+            "color": "#00FA9A",
+            "size": "sm",
+            "wrap": true,
+            "align": "start"
+          },
+          {
+            "type": "text",
+            "text": "**รับโบนัสได้ไม่จำกัด มีโบนัสเเถมอีกมากมาย**",
+            "color": "#FF0000",
+            "weight": "bold",
+            "align": "center",
+            "size": "xs"
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ฝาก-ถอน ระบบอัตโนมัติ",
+              "uri": "http://ufa-bet191.com/"
+            },
+            "style": "primary",
+            "color": "#FF0000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "🚩สมัครรับโบนัส",
+              "uri": "http://ufa-bet191.com/"
+            },
+            "style": "secondary",
+            "color": "#FFCC33"
+          }
+        ],
+        "spacing": "md",
+        "margin": "none",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000"
+        }
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#000000"
+        }
+      }
+    }
+  ]
+}
+}]

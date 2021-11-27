@@ -1,0 +1,174 @@
+[{
+  "type": "flex",
+  "altText": "คุณคือผู้โชคดีได้รับทรูวอเลท 50 บาทไม่ต้องฝาก",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "3:4",
+        "aspectMode": "cover",
+        "url": "https://sv1.picz.in.th/images/2021/09/16/ClVrhy.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "xxl",
+        "contents": [
+          {
+            "type": "text",
+            "text": " SLOTGAME 6666",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "align": "center",
+            "color": "#FFFFE0"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี 50 บาท",
+            "color": "#F5F5DC",
+            "align": "center",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "text": "แจกวันละ 300 USER เท่านั้น",
+            "color": "#FFFFE0",
+            "align": "center",
+            "size": "lg"
+          },
+          {
+            "type": "text",
+            "text": "รีบๆ กดเข้ามารับกันเยอะๆนะคะ",
+            "color": "#FFFFE0",
+            "margin": "none",
+            "size": "lg",
+            "align": "center"
+          }
+        ],
+        "backgroundColor": "#FF0000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/09/16/CoWNgk.png",
+            "size": "5xl",
+            "align": "center",
+            "margin": "none",
+            "offsetTop": "none",
+            "offsetStart": "none",
+            "offsetEnd": "none",
+            "offsetBottom": "none",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/WBII0El"
+            },
+            "backgroundColor": "#FF0000",
+            "aspectRatio": "4:2"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💌บอกต่อเพื่อน💌",
+              "uri": "https://liff.line.me/1656434399-b4Ew9gkW/?content=https://boss12123.github.io/ufaauto.github.io/slot666.json"
+            },
+            "style": "primary"
+          }
+        ],
+        "backgroundColor": "#FF0000"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "3:4",
+        "aspectMode": "cover",
+        "url": "https://sv1.picz.in.th/images/2021/09/16/ClXEdf.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": " เว็บถูกกฎหมายรับรองจากต่างประเทศ",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "align": "center",
+            "color": "#FFFFE0"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "🔞 ปลอดภัยได้เงินชัวร์ 100%",
+            "color": "#FFFFE0",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "🔞 ฝาก-ถอน 24 ชม. ผ่านระบบอัตโนมัติ",
+            "color": "#FFFFE0",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "🔞 เล่นง่ายผ่านมือถือทุกระบบ",
+            "color": "#FFFFE0",
+            "size": "md"
+          }
+        ],
+        "backgroundColor": "#FF0000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "👇👇👇👇",
+            "align": "center",
+            "size": "4xl"
+          },
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/09/16/CoW1Hg.png",
+            "size": "5xl",
+            "aspectRatio": "4:2",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/register"
+            }
+          }
+        ],
+        "backgroundColor": "#FF0000"
+      }
+    }
+  ]
+}
+}]

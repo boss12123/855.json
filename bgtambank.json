@@ -1,0 +1,168 @@
+[{
+  "type": "flex",
+  "altText": "คุณได้รับเครดิตฟรี 50 เครดิต",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/08/27/C0oXgt.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EeLiMNm"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "weight": "bold",
+            "align": "center",
+            "text": "โค้ดเครดิตฟรี : Bg188free-50",
+            "color": "#FF0000",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "นำโค้ดที่ได้แจ้งรับเครดิตฟรีที่แอดมินได้ทันที เล่นได้ทุกอย่าง คาสิโน สล็อต เล่นครบ 500 ถอนได้เลย ",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true,
+            "size": "xs",
+            "color": "#FFD700"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#778899",
+          "endColor": "#000000",
+          "centerColor": "#2F4F4F"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "🐲 รับโค้ดเครดิตฟรี 🐲",
+              "uri": "https://lin.ee/EeLiMNm"
+            },
+            "style": "primary",
+            "height": "md",
+            "color": "#FF3333"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "⭐ เเชร์เลย ⭐",
+              "uri": "https://liff.line.me/1656299242-NqbJ23VD/?content=https://boss12123.github.io/bgtambank.json"
+            },
+            "style": "secondary",
+            "color": "#00FF7F"
+          }
+        ],
+        "spacing": "lg",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#2F4F4F",
+          "endColor": "#778899",
+          "centerColor": "#778899"
+        },
+        "margin": "none"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/08/27/C02omg.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EeLiMNm"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "BG GAME188",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true,
+            "color": "#FF0000"
+          },
+          {
+            "type": "text",
+            "text": "มั่นคง ปลอดภัย ด้วยระบบ ฝาก-ถอน อัตโนมัติ ครบจบที่ User เดียว บอล คาสิโน หวย สล็อต",
+            "align": "center",
+            "wrap": true,
+            "color": "#FFD700",
+            "weight": "bold",
+            "size": "xs"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#778899",
+          "endColor": "#000000",
+          "centerColor": "#2F4F4F"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💰 สมัครรับโปร 💰",
+              "uri": "https://www.ufaauto523.com/"
+            },
+            "style": "primary",
+            "color": "#FF3333"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "🐲 รับโค้ดเครดิตฟรี 🐲",
+              "uri": "https://lin.ee/EeLiMNm"
+            },
+            "style": "secondary",
+            "color": "#00FF7F"
+          }
+        ],
+        "spacing": "lg",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#2F4F4F",
+          "endColor": "#778899",
+          "centerColor": "#778899"
+        },
+        "margin": "xs"
+      }
+    }
+  ]
+}
+}]

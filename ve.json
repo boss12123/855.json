@@ -1,0 +1,59 @@
+[{
+  "type": "flex",
+  "altText": "เฮงท้ายปีแจกเครดิตฟรี ไม่จำกัด",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "3:4",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/a2890c01bb59436e252515072673dc4c.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โอกาสดีๆ มาถึงแล้วแจกทุนฟรี 66.-",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md",
+            "color": "#FF0000"
+          },
+          {
+            "type": "text",
+            "text": "รับได้เลยไม่ต้องฝาก 👇คลิ๊ก👇",
+            "color": "#FF0000"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/71d571fa43911e6b9effb86d7e99448a.png",
+            "size": "4xl",
+            "align": "center",
+            "margin": "none",
+            "position": "relative",
+            "aspectRatio": "5:2",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/YZrGK7U"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FFB90F",
+          "endColor": "#000000"
+        }
+      }
+    }
+  ]
+}
+}]

@@ -1,0 +1,171 @@
+[{
+  "type": "flex",
+  "altText": "⚽UFA แจกเครดิตฟรี 50 เครดิต เอาไปลองแล้วจะรู้ว่าจริงไหม",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/7f84d1d0ddd5d43af6f15a47d7cdb70a.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/uncoj2A"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "UFA แจกจริง",
+            "align": "center",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#FF3300",
+            "decoration": "underline"
+          },
+          {
+            "type": "text",
+            "text": "เล่นได้ทุกอย่าง ทำ 500 ถอนได้ 200",
+            "align": "center",
+            "color": "#FFCC99"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://www.img.in.th/images/8e552f3f38d36b8d076a5faee573ebf3.png",
+                "size": "3xl",
+                "margin": "none"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/uncoj2A"
+                },
+                "style": "secondary",
+                "height": "sm",
+                "margin": "sm",
+                "color": "#33CC33"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แชร์เลย",
+                  "uri": "https://bit.ly/3jGKQj2"
+                },
+                "style": "secondary",
+                "margin": "sm",
+                "height": "sm",
+                "color": "#33CC33"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF0000",
+          "endColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/ac7ed66d4e5dd452f05527f129d5ecee.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/uncoj2A"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกใหม่",
+            "align": "center",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#FF3300"
+          },
+          {
+            "type": "text",
+            "text": "ฝาก - ถอน ด้วยระบบ AUTO",
+            "align": "center",
+            "color": "#FFCC99"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://www.img.in.th/images/1998f8d4391cb355b589f6f5ff8b64da.png",
+                "size": "3xl"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "uri",
+                      "label": "สมัครสมาชิก",
+                      "uri": "https://lin.ee/uncoj2A"
+                    },
+                    "height": "sm",
+                    "style": "secondary",
+                    "margin": "sm",
+                    "color": "#33CC33"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "uri",
+                      "label": "ติดต่อแอดมิน",
+                      "uri": "https://lin.ee/uncoj2A"
+                    },
+                    "height": "sm",
+                    "style": "secondary",
+                    "margin": "sm",
+                    "color": "#33CC33"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF0000",
+          "endColor": "#000000"
+        }
+      }
+    }
+  ]
+}
+}]

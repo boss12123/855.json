@@ -1,0 +1,55 @@
+[{
+  "type": "flex",
+  "altText": "สวัสดีคะพี่💖",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/2f02117fee3f34a97ae101e8d41aaf97.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "offsetTop": "none",
+    "offsetBottom": "none"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรี 50 ไม่ต้องฝากก่อนถอนได้เลย ",
+        "wrap": true,
+        "align": "center",
+        "size": "xs",
+        "margin": "none",
+        "weight": "bold"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/YEegjol"
+        },
+        "style": "primary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://www.sky-168.com/"
+        },
+        "style": "primary",
+        "offsetTop": "sm"
+      }
+    ]
+  }
+}
+}]

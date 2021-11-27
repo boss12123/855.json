@@ -1,0 +1,165 @@
+[{
+  "type": "flex",
+  "altText": "UFA800 แจกไม่จำกัด เครดิตฟรี 50",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/f675ade5fd76c4a37a3632c610e6c09c.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/oyZYiTp"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "UFA 800 แจกเครดิตฟรี",
+            "margin": "xs",
+            "size": "xl",
+            "color": "#000000",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "สมาชิกใหม่รับได้ทันที เล่นได้ทุกค่ายเกม",
+            "margin": "none",
+            "size": "xs",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "ระบบอัตโนมัติทำรายการด้วยตนเอง",
+            "margin": "none",
+            "size": "xs",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/f2fb8e78efbbc5e82255fa1be4a28be0.png",
+            "margin": "xxl",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/oyZYiTp"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/c2774aabb6a800661b911128478c87a9.png",
+            "margin": "none",
+            "size": "full",
+            "aspectRatio": "5:2",
+            "offsetTop": "none",
+            "offsetBottom": "xl",
+            "offsetStart": "none",
+            "offsetEnd": "none",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/oyZYiTp"
+            },
+            "aspectMode": "fit"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FFFF33"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/b70a1c8717365dbf1983fd1f28337266.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/oyZYiTp"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครรับโบนัส 100%",
+            "margin": "xs",
+            "size": "xl",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "เล่นได้ทุกค่ายเกม ไม่จำกัดเดิมพัน",
+            "size": "xs",
+            "margin": "none",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "ฝาก-ถอนไม่อั้น ผ่านระบบอัตโนมัติ",
+            "margin": "none",
+            "size": "xs",
+            "weight": "bold"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/9dec5a3249029ef6ce6b29f0badfe9e5.png",
+            "margin": "xxl",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "aspectMode": "fit",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/oyZYiTp"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://img1.wsimg.com/isteam/ip/5b446944-ddfd-4dc0-aa01-4fe55b18a7a7/button-addline.png/:/rs=w:1280",
+            "margin": "none",
+            "size": "full",
+            "aspectRatio": "5:2",
+            "aspectMode": "fit",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/oyZYiTp"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FFFF33"
+        }
+      }
+    }
+  ]
+}
+}]

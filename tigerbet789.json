@@ -1,0 +1,244 @@
+[{
+  "type": "flex",
+  "altText": "🐅พี่เสือให้โชค 135 ตอนนี้ ตอนนี้",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/da66534019ac775585c60f4697387c75.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/mSAH9pi"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โค้ดเครดิตฟรี : TIGEREE123L7T",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md",
+            "color": "#FF0000"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เพียงแจ้งโค้ดกับแอดมินก็รับเครดิตฟรีได้ทันที ",
+                "wrap": true,
+                "weight": "regular",
+                "size": "sm",
+                "margin": "none",
+                "style": "normal",
+                "color": "#FFFF99"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เล่นได้เฉพาะ คาสิโน สล็อต ยิงปลา",
+                "margin": "none",
+                "size": "sm",
+                "weight": "regular",
+                "style": "normal",
+                "color": "#FFFF99"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ทำยอด 1,350 ถอนได้เลย 350.-",
+                "margin": "none",
+                "size": "sm",
+                "weight": "regular",
+                "style": "normal",
+                "color": "#FFFF99"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FDF5E6"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "secondary",
+            "action": {
+              "type": "postback",
+              "label": "แจ้งโค้ดเครดิตฟรี",
+              "data": "https://lin.ee/mSAH9pi"
+            },
+            "margin": "sm",
+            "height": "sm",
+            "color": "#FF0000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "บอกต่อ",
+              "uri": "https://liff.line.me/1656419782-J32e76Np/?content=https://boss12123.github.io/tigerbet789.json"
+            },
+            "margin": "xl",
+            "height": "sm",
+            "style": "secondary",
+            "color": "#FFCC00"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#000000"
+        },
+        "flex": 0
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/e3244c87f2a08d7c2b3bfb8f72cfbb94.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/mSAH9pi"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกใหม่รับโบนัส X2 ทันที",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "โบนัส X2 เล่นได้ทุกอย่าง ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "margin": "none",
+                "color": "#FFFF99"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "คาสิโน บอล หวย สล็อต ยิงปลา",
+                "color": "#FFFF99",
+                "size": "sm",
+                "margin": "none"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ระบบ ฝาก - ถอน อัตโนมัติ รวดเร็วทันใจ",
+                "color": "#FFFF99",
+                "size": "sm",
+                "margin": "none"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FDF5E6"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "secondary",
+            "color": "#FF0000",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโบนัส",
+              "uri": "https://ufa523.automebet.com/ufa523/ufabet/register"
+            },
+            "margin": "sm",
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโค้ดเครดิตฟรี",
+              "uri": "https://lin.ee/mSAH9pi"
+            },
+            "margin": "xl",
+            "height": "sm",
+            "style": "secondary",
+            "color": "#FFCC00"
+          }
+        ],
+        "flex": 0,
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#000000"
+        }
+      }
+    }
+  ]
+}
+}]

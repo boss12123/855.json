@@ -1,0 +1,41 @@
+"backgroundColor": "#E066FF",
+        "animated": false,
+        "offsetTop": "none",
+        "offsetBottom": "none",
+        "offsetEnd": "none",
+        "offsetStart": "none"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมชิก",
+          "uri": "https://lin.ee/JsDkAmL"
+        },
+        "style": "primary"
+      }
+    ],
+    "spacing": "xs",
+    "margin": "xl",
+    "borderWidth": "none",
+    "cornerRadius": "none",
+    "backgroundColor": "#1C1C1C",
+    "action": {
+      "type": "postback",
+      "label": "action",
+      "data": "hello"
+    },
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#E066FF",
+      "endColor": "#E066FF"
+    }
+  },
+  "styles": {
+    "body": {
+      "separator": false
+    }
+  }
+}
+}]

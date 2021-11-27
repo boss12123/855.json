@@ -1,0 +1,147 @@
+[{
+  "type": "flex",
+  "altText": "สมัครตอนนี้รับฟรี 50 เครดิต",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/3b45055c112e76f42cb0ca1888148a0e.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://bit.ly/3tqn4ey"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกรับฟรี 50 เครดิตทันที",
+            "weight": "bold",
+            "margin": "none",
+            "size": "md",
+            "align": "center",
+            "color": "#FF0000",
+            "decoration": "underline"
+          },
+          {
+            "type": "text",
+            "text": "โปรโมชั่นและกิจกรรมมากมาย",
+            "size": "sm",
+            "margin": "md",
+            "align": "center",
+            "color": "#CC6666"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/djFPVv1"
+                },
+                "style": "primary",
+                "margin": "md",
+                "height": "sm",
+                "color": "#00CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "ติดต่อแอดมิน",
+                  "uri": "https://lin.ee/djFPVv1"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              }
+            ],
+            "spacing": "md",
+            "margin": "lg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/2da3f051963e99ed0a93b7b9714c645f.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://bit.ly/3tqn4ey"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมาชิกใหม่รับโบนัส X2",
+            "weight": "bold",
+            "align": "center",
+            "margin": "none",
+            "size": "md",
+            "color": "#FF0000",
+            "decoration": "underline"
+          },
+          {
+            "type": "text",
+            "text": "ไม่จำกัดการถอน ระบบ AUTO",
+            "align": "center",
+            "size": "sm",
+            "margin": "md",
+            "color": "#CC6666"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัครสมาชิก",
+                  "uri": "https://bit.ly/3tqn4ey"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "ติดต่อแอดมิน",
+                  "uri": "https://lin.ee/djFPVv1"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              }
+            ],
+            "spacing": "none",
+            "margin": "lg"
+          }
+        ]
+      }
+    }
+  ]
+}
+}]

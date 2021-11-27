@@ -1,0 +1,147 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรี 200 เครดิต",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FF0000"
+      },
+      {
+        "type": "text",
+        "text": "🚫หมดเขต 16/09/64",
+        "align": "center"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "ใช้สิทธิ์รับเครดิตฟรี",
+          "uri": "https://lin.ee/rfETLNm"
+        },
+        "style": "primary",
+        "color": "#FF0000"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกใหม่ รับโบนัส 100%",
+            "align": "center",
+            "margin": "xxl",
+            "weight": "bold",
+            "color": "#FF0000"
+          },
+          {
+            "type": "text",
+            "text": "✨ฝาก 200 รับ 400     ฝาก 300 รับ 600",
+            "align": "center",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "✨ฝาก 400 รับ 800     ฝาก 500 รับ 1000",
+            "align": "center",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "🔥ฝากถอนผ่านระบบอัตโนมัติ🔥",
+            "weight": "regular",
+            "size": "md",
+            "align": "center",
+            "color": "#000000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโบนัส",
+              "uri": "https://ufa-bet191.com/member/home"
+            },
+            "style": "secondary",
+            "margin": "lg",
+            "color": "#00FA9A"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เเจกโค๊ดเครดิตฟรี 400 เครดิต",
+            "margin": "xxl",
+            "align": "center",
+            "weight": "bold",
+            "color": "#FF0000"
+          },
+          {
+            "type": "text",
+            "text": "โค๊ด : FREE400SLOT",
+            "align": "center",
+            "size": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ใส่โค๊ดเครดิตฟรี",
+              "uri": "https://lin.ee/rfETLNm"
+            },
+            "style": "primary",
+            "margin": "xxl",
+            "color": "#CC99FF"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เว็บมั่นคง สำหรับนักพนัน",
+            "margin": "xxl",
+            "align": "center",
+            "color": "#FF0000",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "บอล หวย มวย สล็อต บาคาร่า",
+            "align": "center"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://ufa-bet191.com/member/home"
+            },
+            "margin": "xxl",
+            "style": "primary",
+            "color": "#FF6347"
+          }
+        ]
+      }
+    ]
+  }
+}
+}]

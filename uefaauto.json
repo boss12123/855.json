@@ -1,0 +1,60 @@
+[{
+  "type": "flex",
+  "altText": "⚽UFA จัดมหกรรมแจกฟรี 200 เครดิต รับได้ไม่อั้น",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/7000d1584a3839cebc2eaa2c435a38ca.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "https://lin.ee/waCeXRk",
+      "uri": "https://lin.ee/waCeXRk"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🗼 เครดิตฟรี เล่นได้ทุกค่ายเกมส์ 🗼",
+        "align": "center",
+        "weight": "bold",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "⚽ เล่นได้ ถอนได้จริง ด้วยระบบอัตโนมัติ ⚽",
+        "align": "center",
+        "weight": "bold",
+        "size": "sm"
+      },
+      {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/09/28/CpKvuq.png",
+        "size": "full"
+      },
+      {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/09/28/CpKGMz.png",
+        "size": "5xl",
+        "margin": "xs",
+        "aspectRatio": "5:2"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#FFD700"
+    },
+    "action": {
+      "type": "uri",
+      "label": "https://lin.ee/waCeXRk",
+      "uri": "https://lin.ee/waCeXRk"
+    }
+  }
+}
+}]

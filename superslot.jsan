@@ -1,0 +1,81 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/764c2a3fddd7c1a7e704043218efb198.jpg",
+    "align": "center",
+    "aspectMode": "fit",
+    "margin": "lg",
+    "size": "full",
+    "animated": true,
+    "offsetTop": "none",
+    "offsetBottom": "none",
+    "offsetStart": "none",
+    "offsetEnd": "none",
+    "gravity": "top"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "โค๊ดเครดิตฟรี : CREDITFREE100",
+        "color": "#FFFFFF",
+        "align": "center",
+        "size": "md",
+        "margin": "xxl",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "เเจกฟรี 100 เครดิต !! เพียงนำโค๊ดมาใส่นำเว็บรับได้ทันที  ถอนให้ไม่อั้น",
+        "color": "#FFFF66",
+        "weight": "bold",
+        "wrap": true,
+        "align": "center",
+        "size": "sm"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "ใช้โค๊ดเลย",
+          "uri": "https://lin.ee/cKcdzIw"
+        },
+        "style": "primary",
+        "color": "#FF0000"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เเชร์ให้เพื่อน",
+          "uri": "https://boss12123.github.io/?liffId=1656241953-JXyLjYgV&content=https://boss12123.github.io/superslot.jsan"
+        },
+        "style": "link",
+        "adjustMode": "shrink-to-fit"
+      }
+    ],
+    "borderWidth": "normal",
+    "backgroundColor": "#000000"
+  },
+  "styles": {
+    "hero": {
+      "separator": true
+    },
+    "body": {
+      "backgroundColor": "#000000"
+    }
+  }
+}
+}]

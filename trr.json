@@ -1,0 +1,27 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "📑  สมัครรับเครดิตฟรี",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center",
+        "color": "#000000",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://docs.google.com/forms/d/1kaXZWvT4bvhRPbFuv7QFogbs4axF-hTU4qP6Wa1C0v4/edit"
+        }
+      }
+    ],
+    "backgroundColor": "#33CC33"
+  }
+}
+}]

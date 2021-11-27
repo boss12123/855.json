@@ -1,0 +1,73 @@
+[{
+  "type": "flex",
+  "altText": "Joker777 เเจกเครดิตฟรี !!",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/c50abdac2431feed59459742fba68867.jpg",
+    "size": "full",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://lin.ee/za9zRBt",
+      "label": "action"
+    },
+    "margin": "sm"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เครดิตฟรีรับได้ไม่จำกัด",
+        "weight": "bold",
+        "size": "xl",
+        "contents": [],
+        "align": "center",
+        "color": "#F5FFFA"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/967f6df32eedd60a565896ac7b3bed27.png",
+            "size": "5xl",
+            "margin": "xs",
+            "aspectRatio": "5:2"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": []
+      },
+      {
+        "type": "image",
+        "url": "https://www.img.in.th/images/acec7cce38f3c36508d8016464516ad7.png",
+        "size": "full",
+        "margin": "xs",
+        "aspectRatio": "5:3"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "4deg",
+      "endColor": "#33CC33",
+      "centerColor": "#7FFF00",
+      "startColor": "#7FFF00"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/za9zRBt"
+    }
+  }
+}
+}]

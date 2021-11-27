@@ -1,0 +1,80 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/68fc4b789679f6bb356b95f0eea64606.jpg",
+    "size": "full",
+    "aspectMode": "cover",
+    "aspectRatio": "2:1"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมาชิกใหม่ รับเครดิตฟรี 100%",
+        "weight": "bold",
+        "align": "center",
+        "color": "#00FF7F"
+      },
+      {
+        "type": "text",
+        "text": "รับได้ง่ายๆเพียบแชร์ภาพนี้ให้กับเพื่อนๆและรอรับเคดิตฟรีได้เลย",
+        "align": "center",
+        "weight": "regular",
+        "wrap": true,
+        "size": "xs",
+        "color": "#FFD700"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://line.me/R/ti/p/%40544duzdc"
+        },
+        "style": "secondary",
+        "color": "#FF6347"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เข้าสู่เว็บไซค์",
+          "uri": "https://www.ufabet-191.com/ufabet.html"
+        },
+        "style": "primary"
+      }
+    ],
+    "spacing": "sm",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000033",
+      "centerColor": "#BEBEBE"
+    }
+  },
+  "styles": {
+    "header": {
+      "separator": true
+    }
+  }
+}
+}]

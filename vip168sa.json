@@ -1,0 +1,194 @@
+[{
+  "type": "flex",
+  "altText": "ฉลองครบรอบ 3 ปี แจกเครดิตฟรี 50บาท",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/ef7d07129f058a53ac4285c53489e6ce.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/i1y5iWN"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี",
+            "wrap": true,
+            "weight": "bold",
+            "size": "3xl",
+            "align": "center",
+            "color": "#FFD700"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "ให้ไปเล่นฟรีๆ เล่นได้ทุกอย่าง 💥",
+            "color": "#FFFFFF",
+            "margin": "xl",
+            "size": "md",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "สอบถามรายละเอียดเพิ่มเติมได้ กดclick",
+            "color": "#FFFFFF",
+            "align": "center",
+            "margin": "md",
+            "size": "md"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#008B45",
+          "endColor": "#000000"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "📌 CLICK 📌",
+              "uri": "https://lin.ee/i1y5iWN"
+            },
+            "color": "#EEEED1"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "🔊 แชร์เลย 🔊",
+              "uri": "https://liff.line.me/1656442382-BWm8yejL/?content=https://boss12123.github.io/ufaauto.github.io/vip168sa.json"
+            },
+            "color": "#EEEED1"
+          }
+        ],
+        "backgroundColor": "#000000",
+        "background": {
+          "type": "linearGradient",
+          "angle": "24deg",
+          "startColor": "#000000",
+          "endColor": "#008B45",
+          "centerColor": "#008B45"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/c946604c0e7ff8abd75802f55c8084d8.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/register"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "VIP168SA",
+            "weight": "bold",
+            "size": "xxl",
+            "color": "#FFD700",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "เล่นได้ทันทีไม่ต้องโหลดให้ยุ่งยาก",
+            "margin": "xxl",
+            "color": "#FFFFFF",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "รองรับทั้งระบบ IOS และ ANDROID",
+            "color": "#FFFFFF",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ฝาก - ถอน AUTO 30 วินาที",
+            "color": "#FFFFFF",
+            "size": "sm"
+          }
+        ],
+        "backgroundColor": "#FFD700",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#008B45",
+          "endColor": "#000000"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "flex": 2,
+            "style": "link",
+            "color": "#EEEED1",
+            "action": {
+              "type": "uri",
+              "label": "🔞 สมัครสมาชิก 🔞",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/register"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "📱 ติดต่อแอดมิน 📱",
+              "uri": "https://lin.ee/i1y5iWN"
+            },
+            "color": "#EEEED1"
+          }
+        ],
+        "backgroundColor": "#FFD700",
+        "offsetTop": "none",
+        "paddingStart": "none",
+        "background": {
+          "type": "linearGradient",
+          "angle": "24deg",
+          "startColor": "#000000",
+          "endColor": "#008B45",
+          "centerColor": "#008B45"
+        }
+      }
+    }
+  ]
+}
+}]

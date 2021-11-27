@@ -1,0 +1,73 @@
+[{
+ "type": "flex",
+ "altText": "เฮงได้ง่าย ๆ รับฟรี300",
+ "contents": {
+ "type": "carousel",
+ "contents": [
+   {
+     "type": "bubble",
+     "hero": {
+       "type": "image",
+       "size": "full",
+       "aspectRatio": "2:2",
+       "aspectMode": "cover",
+       "url": "https://www.img.in.th/images/414121c451a0b6e3162b354083ec9eb5.jpg"
+     },
+     "body": {
+       "type": "box",
+       "layout": "vertical",
+       "spacing": "sm",
+       "contents": [
+         {
+           "type": "text",
+           "text": "สมาชิกใหม่รับเครดิตฟรี",
+           "weight": "bold",
+           "size": "xl",
+           "align": "center",
+           "color": "#FFA500"
+         },
+         {
+           "type": "text",
+           "text": "ไม่ต้องลุ้น ไม่ต้องรอ ❗❗",
+           "align": "center",
+           "weight": "bold",
+           "color": "#FF3030",
+           "size": "md"
+         },
+         {
+           "type": "text",
+           "text": "( รับ 300 ทำ 900 ถอน 300 )",
+           "color": "#FFFAFA",
+           "align": "center",
+           "weight": "regular",
+           "size": "sm"
+         },
+         {
+           "type": "image",
+           "url": "https://www.img.in.th/images/4b028c7c3d9449fcfbcb419e356aaad6.gif",
+           "size": "full",
+           "aspectRatio": "2:1",
+           "action": {
+             "type": "uri",
+             "label": "action",
+             "uri": "https://lin.ee/RwTHXAB"
+           }
+         },
+         {
+           "type": "image",
+           "url": "https://www.img.in.th/images/8c1ae408798f05726a687a623a24fdf4.png",
+           "size": "full",
+           "aspectRatio": "4:1"
+         }
+       ],
+       "background": {
+         "type": "linearGradient",
+         "angle": "0deg",
+         "startColor": "#FF0066",
+         "endColor": "#000000"
+       }
+     }
+   }
+ ]
+}
+}]

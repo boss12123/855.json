@@ -1,0 +1,69 @@
+{
+  "type": "flex",
+  "altText": "สวัสดีคะพี่💖",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/bdc3035932b5d03ebc67ae86c70c28e4.jpg",
+    "size": "full",
+    "aspectRatio": "1:1"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรี 50 เครดิต รับได้ทั้งสมาชิกเก่าเเละใหม่ ถอนได้จริง เล่นได้ทุกค่ายเกม",
+        "wrap": true,
+        "align": "center",
+        "size": "xs",
+        "color": "#ffffff",
+        "weight": "bold"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#6699FF",
+      "endColor": "#6666FF"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/yZTri2u"
+        },
+        "style": "primary",
+        "color": "#9966FF"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://www.sky-168.com/"
+        },
+        "style": "primary",
+        "color": "#6699FF"
+      }
+    ],
+    "margin": "none",
+    "spacing": "sm",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#3300CC",
+      "endColor": "#6699FF",
+      "centerColor": "#3366FF"
+    }
+  }
+}
+}]
